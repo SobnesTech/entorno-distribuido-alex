@@ -10,8 +10,8 @@
 
 ### [Github: @Alexis Baltazar Lopez Soberanes {Role: Admin}](https://github.com/Alex-18030050)
 
-### [Github:  @Paul Guadalupe Veliz Lopez {Role: Read}](https://github.com/pauvel)
+### [Github:  @Paul Guadalupe Veliz Lopez {Role: Write}](https://github.com/pauvel)
 
-### [Github:  @Silvano Armenta Salazar {Role: Write}](https://github.com/silvano45)
+### [Github:  @Silvano Armenta Salazar {Role: Read}](https://github.com/silvano45)
 
 ### [Github:  @Pablo Chavez Navarro {Role: Triage}](https://github.com/Pablo011)
