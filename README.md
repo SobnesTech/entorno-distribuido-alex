@@ -1,20 +1,17 @@
- ## Universidad Autonoma De Occidente
- :ghost:
-## Repositorio en entorno distribuido :grinning:
-<br>
-###Materia: Ambientes Colaborativos Y Control De Versiones Git :thought_balloon:
+# Repositorio en entorno distribuido :grinning:
 
+### Universidad Autonoma De Occidente
+### Materia: Ambientes Colaborativos Y Control De Versiones Git :thought_balloon:
+### Sistemas Computacionales  :ghost:
+### [Github:  @Profesor: Bidkar Aragon Cardenas {Role: Maintain} ](https://github.com/bidkar)
 <br>
-### Sistemas Computacionales
-<br>
-[Github:  @Profesor: Bidkar Aragon Cardenas {Maintain} ](https://github.com/bidkar)
-<br>
-### INTEGRANTES: :zzz:
-<br>
-[Github: @Alexis Baltazar Lopez Soberanes {Admin}](https://github.com/Alex-18030050)
-<br>
-[Github:  @Paul Guadalupe Veliz Lopez {Read}](https://github.com/pauvel)
-<br>
-[Github:  @Silvano Armenta Salazar {Write}](https://github.com/silvano45)
-<br>
-[Github:  @Pablo Chavez Navarro {Triage}](https://github.com/Pablo011)
+
+##  INTEGRANTES: :zzz:
+
+### [Github: @Alexis Baltazar Lopez Soberanes {Role: Admin}](https://github.com/Alex-18030050)
+
+### [Github:  @Paul Guadalupe Veliz Lopez {Role: Read}](https://github.com/pauvel)
+
+### [Github:  @Silvano Armenta Salazar {Role: Write}](https://github.com/silvano45)
+
+### [Github:  @Pablo Chavez Navarro {Role: Triage}](https://github.com/Pablo011)
