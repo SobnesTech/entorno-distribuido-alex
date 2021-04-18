@@ -2,3 +2,6 @@ h1{
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+footer{ 
+    flex: 0 0 auto; 
+}
