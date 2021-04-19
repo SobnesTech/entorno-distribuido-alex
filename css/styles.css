@@ -5,3 +5,12 @@ h1{
 footer{ 
     flex: 0 0 auto; 
 }
+.header{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.header-item{
+    text-decoration: none;
+    padding: 5px;
+}
